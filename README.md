@@ -1,2 +1,5 @@
-# number-theory
+# Number theory
+
 :deciduous_tree:
+
+- Prime number
